@@ -6,9 +6,9 @@ a simple python compiler website with dynamic inputs and display outputs
 A clean, web-based interface to write and run Python code directly in your browser. This project provides a simple code editor for dynamic inputs and an output console to display the results instantly.
 
 📸 Preview
-![Uploading image.png…]()
 
-
+[Check out the live demo!]([https://your-project-link.com](https://python-compiler-nu.vercel.app/
+))
 
 ✨ Features
 Live Code Editor: Write your Python code in a simple, numbered editor.
